@@ -2,7 +2,7 @@
 
 I'm a proactive programmer and gamer, passionate about creating new and innovative solutions to help others.
 
-- 🖥️ Currently, I'm working on developing an API using Spring and MongoDB.
+- 🖥️ Currently, I'm working on San Vicente Ferrer School Management System
 - 🧠 I also have experience developing web applications using React JS
 - 📖 I am actively seeking my first internship opportunity to further enhance my skills and gain valuable real-world experience.
 
