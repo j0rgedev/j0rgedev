@@ -1,9 +1,23 @@
-# Hello there!
+# Hello, I'm Jorge 👋
 
-I'm a proactive programmer and gamer, passionate about creating new and innovative solutions to help others.
+## 🎓 About Me
+I'm a software engineer student with a passion for building applications that make a positive impact. Ever since I learned Java as my first programming language, I've been hooked on the world of software development.
 
-- 🖥️ Currently, I'm working on San Vicente Ferrer School Management System
-- 🧠 I also have experience developing web applications using React JS
-- 📖 I am actively seeking my first internship opportunity to further enhance my skills and gain valuable real-world experience.
+## 🌱 Education
+Bachelor's Degree in Software Engineering (Ongoing)
+- Universidad Tecnológica del Perú (UTP)
+- Progress: ███████████████░░░░░░░░░░ 60%
 
-Feel free to check out my portfolio and reach out to me if you're interested in collaborating on any exciting projects!
+## 👨‍💻 Projects
+- [SVF School Project](https://github.com/jorgevfx/svf-web)): Front-end repository for San Vicente Ferrer web built with React
+- [SVF School Project API](https://github.com/jorgevfx/svf-api): Back-end repository for the corresponding Spring Boot RESTful API
+- [POS Project](https://github.com/jorgevfx/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
+
+## 🚀 Skills
+- 💻 Front-end: React, HTML, CSS, JavaScript
+- ⚙️ Back-end: Spring Boot, Java, Swing, RESTful APIs
+- 🗄️ Database: MySQL, MongoDB
+- 📚 Other: Problem-solving, teamwork
+
+## 📬 Contact Me
+I'm always excited to connect with more developerss and collaborate on interesting projects. You can contact me to [Email](hjorge.30@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-antezana/).
