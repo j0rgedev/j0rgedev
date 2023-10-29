@@ -6,7 +6,7 @@ I'm a software engineering student passionate about building applications that m
 ## 🌱 Education
 Bachelor's Degree in Software Engineering (Ongoing)
 - Universidad Tecnológica del Perú (UTP)
-- Progress: ███████████████░░░░░░░░░░ 60%
+- Progress: █████████████████░░░░░░░░ 70%
 
 ## 👨‍💻 Projects
 - [SVF School Project](https://github.com/jorgevfx/svf-web): This is the front-end repository for the San Vicente Ferrer website, developed using React
@@ -14,9 +14,9 @@ Bachelor's Degree in Software Engineering (Ongoing)
 - [POS Project](https://github.com/jorgevfx/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
 
 ## 🚀 Skills
-- 💻 Front-end: React, HTML, CSS, JavaScript
+- 💻 Front-end: Vue 3, React, Figma
 - ⚙️ Back-end: Spring Boot, Java, Swing, RESTful APIs
-- 🗄️ Database: MySQL, MongoDB
+- 🗄️ Database: MySQL, PostgreSQL, MongoDB
 - 📚 Other: Problem-solving, teamwork
 
 ## 📬 Contact Me
