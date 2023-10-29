@@ -9,9 +9,12 @@ Bachelor's Degree in Software Engineering (Ongoing)
 - Progress: █████████████████░░░░░░░░ 70%
 
 ## 👨‍💻 Projects
-- [SVF School Project](https://github.com/jorgevfx/svf-web): This is the front-end repository for the San Vicente Ferrer website, developed using React
-- [SVF School Project API](https://github.com/jorgevfx/svf-api): Back-end repository that manages all the business logic and data handling for the San Vicente Ferrer School. The API is built using a REST architecture in Spring Boot.
-- [POS Project](https://github.com/jorgevfx/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
+### Current Projects
+- [RankGuesser](https://github.com/jorgevfx/rank-guesser): A platform for Valorant players to upload gameplay clips for rank guessing by the community.
+
+### Past Projects
+- [SVF School](https://github.com/jorgevfx/svf-web): Web platform for the pension and enrollment system of the SVF school
+- [La Cochera POS](https://github.com/jorgevfx/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
 
 ## 🚀 Skills
 - 💻 Front-end: Vue 3, React, Figma
