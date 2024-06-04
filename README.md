@@ -10,9 +10,10 @@ Bachelor's Degree in Software Engineering (Ongoing)
 
 ## 👨‍💻 Projects
 ### Current Projects
-- [AdivinaElTruco](https://github.com/jorgevfx/guessthetrick): Web page to guess skate name tricks and win some good prized. In collaboration with CVD Skateshop
+I have stopped making projects due to my internship. However, I'm getting more knowledge, so wait for good projects :D
 
 ### Past Projects
+- [AdivinaElTruco](https://github.com/jorgevfx/guessthetrick): Web page to guess skate name tricks and win some good prized. In collaboration with CVD Skateshop
 - [RankGuesser](https://github.com/jorgevfx/rank-guesser): A platform for Valorant players to upload gameplay clips for rank guessing by the community.
 - [SVF School](https://github.com/jorgevfx/svf-web): Web platform for the pension and enrollment system of the SVF school
 - [La Cochera POS](https://github.com/jorgevfx/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
