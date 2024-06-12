@@ -10,7 +10,7 @@ Bachelor's Degree in Software Engineering (Ongoing)
 
 ## 👨‍💻 Projects
 ### Current Projects
-I have stopped making projects due to my internship. However, I'm getting more knowledge, so wait for good projects :D
+I have stopped making projects due to my internship. However, I'm getting more knowledge, so wait for good projects :D. By the way, new RankGuesser website is coming 👀
 
 ### Past Projects
 - [AdivinaElTruco](https://github.com/j0rgedev/guessthetrick): Web page to guess skate name tricks and win some good prized. In collaboration with CVD Skateshop
