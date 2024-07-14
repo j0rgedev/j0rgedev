@@ -14,15 +14,15 @@ I have stopped making projects due to my internship. However, I'm getting more k
 
 ### Past Projects
 - [AdivinaElTruco](https://github.com/j0rgedev/guessthetrick): Web page to guess skate name tricks and win some good prized. In collaboration with CVD Skateshop
-- [RankGuesser](https://github.com/j0rgedev/rank-guesser): A platform for Valorant players to upload gameplay clips for rank guessing by the community.
+- [RankGuesser](https://github.com/j0rgedev/rank-guesser_old): A platform for Valorant players to upload gameplay clips for rank guessing by the community.
 - [SVF School](https://github.com/j0rgedev/svf-web): Web platform for the pension and enrollment system of the SVF school
 - [La Cochera POS](https://github.com/j0rgedev/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
 
 ## 🚀 Skills
-- 💻 Front-end: Vue 3, React, Figma
-- ⚙️ Back-end: Spring Boot, Java, RESTful APIs
+- 💻 Front-end: Vue 3, Nuxt, Nitro
+- ⚙️ Back-end: Net Core, C#, Java
 - 🗄️ Database: MySQL, Oracle, PostgreSQL
-- 📚 Other: Problem-solving, teamwork,  git
+- 📚 Other: Problem-solving, teamwork, git, oop, data structures
 
 ## 📬 Contact Me
 I'm always excited to connect with more developers and collaborate on exciting projects. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-antezana/).
