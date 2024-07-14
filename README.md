@@ -25,4 +25,4 @@ I have stopped making projects due to my internship. However, I'm getting more k
 - 📚 Other: Problem-solving, teamwork,  git
 
 ## 📬 Contact Me
-I'm always excited to connect with more developers and collaborate on exciting projects. You can contact me at [Email](hjorge.30@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-antezana/).
+I'm always excited to connect with more developers and collaborate on exciting projects. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-antezana/).
