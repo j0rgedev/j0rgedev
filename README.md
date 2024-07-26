@@ -6,7 +6,7 @@ I'm a software engineering student passionate about building applications that m
 ## 🌱 Education
 Bachelor's Degree in Software Engineering (Ongoing)
 - Universidad Tecnológica del Perú (UTP)
-- Progress: ████████████████████░░░░░ 80%
+- Progress: ███████████████████████░░ 90%
 
 ## 👨‍💻 Projects
 ### Current Projects
