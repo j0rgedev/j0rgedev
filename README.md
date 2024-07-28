@@ -19,10 +19,10 @@ I have stopped making projects due to my internship. However, I'm getting more k
 - [La Cochera POS](https://github.com/j0rgedev/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
 
 ## 🚀 Skills
-- 💻 Front-end: Vue 3, Nuxt, Nitro
+- 💻 Front-end: Vue 3, Nuxt 3
 - ⚙️ Back-end: Net Core, C#, Java
 - 🗄️ Database: MySQL, Oracle, PostgreSQL
-- 📚 Other: Problem-solving, teamwork, git, oop, data structures
+- 📚 Other: Problem-solving, teamwork, git, OOP, data structures
 
 ## 📬 Contact Me
 I'm always excited to connect with more developers and collaborate on exciting projects. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-antezana/).
