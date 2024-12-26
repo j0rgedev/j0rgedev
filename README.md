@@ -1,27 +1,51 @@
-# Hello, I'm Jorge 👋
+<div align="center">
 
-## 🎓 About Me
-I'm a software engineering student passionate about building applications that make a positive impact. Always trying to make creative and helpful websites 🫱🏻‍🫲🏻
+# Hello there! I'm Jorge 👋 <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="125">
 
-## 🌱 Education
-Bachelor's Degree in Software Engineering (Ongoing)
-- Universidad Tecnológica del Perú (UTP)
-- Progress: ███████████████████████░░ 90%
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-antezana/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
-## 👨‍💻 Projects
-### Current Projects
-I have stopped making projects due to my internship. However, I'm getting more knowledge, so wait for good projects :D. By the way, new RankGuesser website is coming 👀
+</div>
 
-### Past Projects
-- [RankGuesser (Archived)](https://github.com/j0rgedev/rank-guesser_old): A platform for Valorant players to upload gameplay clips for rank guessing by the community. It'll be updated soon with Nuxt FullStack.
-- [SVF School (Archived)](https://github.com/j0rgedev/svf-web_old): Web platform for the pension and enrollment system of the SVF school. A new version is being developed; however, unfortunately, it's closed source unless the school allows me to open it.
-- [La Cochera POS](https://github.com/j0rgedev/lacocherapos): Desktop application for La Cochera restaurant's point of sale (POS) system built with Java Swing.
+## About Me 🚀
 
-## 🚀 Skills
-- 💻 Front-end: Vue 3, Nuxt 3
-- ⚙️ Back-end: C#, Net Core, Java, Spring Boot
-- 🗄️ Database: MySQL, Oracle, PostgreSQL
-- 📚 Other: Problem-solving, Teamwork, Git, OOP, Data Structures
+```typescript
+const jorge = {
+    role: "Software Engineering Student",
+    focus: "Full-Stack Development",
+    location: "Peru 🇵🇪",
+    hobbies: ["Gaming", "Anime", "Tech", "Video Editing"]
+};
+```
 
-## 📬 Contact Me
-I'm always excited to connect with more developers and collaborate on exciting projects. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-antezana/).
+## Tech Stack 💻
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Featured Projects 🎯
+
+### RankGuesser 2.0 🎮
+> A Valorant rank-guessing platform rebuilt with Nuxt
+
+- **Status**: Coming Soon! 👀
+- **Previous Version**: [Check it out here](https://github.com/j0rgedev/rank-guesser_old)
+
+#### More projects in the pin section! 😁
+
+## GitHub Stats 📊
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j0rgedev&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0rgedev&layout=compact&theme=dark&hide_border=true)
+
+</div>
