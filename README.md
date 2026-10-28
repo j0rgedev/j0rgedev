@@ -1,54 +1,49 @@
-# Hey there! I'm Jorge 👨‍💻
+<h1 align="center">Hi 👋, I'm Jorge</h1>
+<h3 align="center">Backend Software Engineer · Java · Spring Boot · Kubernetes · AI</h3>
 
-```typescript
-const jorge = {
-    role: "Software Engineering Student",
-    focus: "Full-Stack Development",
-    location: "Peru 🇵🇪",
-    hobbies: ["Gaming 🎮", "Anime ⚡", "Tech 💻", "Video Editing 🎬"],
-    favoriteAnime: "The Fragrant Flower Blooms with Dignity", // Peak romcom ♥
-    codingStyle: "Clean code is like a good anime plot - makes sense!"
-};
-```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=j0rgedev&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
+</div>
+
+## 🔭 About me
+
+- 💼 Leading backend for an e-commerce microservices platform
+- ☁️ Running services on Azure Kubernetes Service with Helm and Grafana
+- 🤖 Building AI tooling: agents, skills and MCP servers
+- 🌱 Learning Quarkus, and keeping myself updated with this new AI era
+- 🎮 Off-screen: gaming, anime and video editing
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres,redis,azure,kubernetes,docker,grafana,prometheus,ts,nuxtjs,vue,git,linux" alt="Tech stack" />
+</p>
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+## 📊 Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j0rgedev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0rgedev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" alt="Top languages" />
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=j0rgedev&theme=github_dark&utcOffset=-5" height="160" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j0rgedev&theme=github_dark" height="160" alt="Repos per language" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0rgedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0rgedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
-</div>
+## 📈 Contributions
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0rgedev&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0rgedev&theme=github_dark" alt="Contributions" />
+</p>
 
-## 📫 Connect with me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=j0rgedev&theme=github-dark-blue&hide_border=true" alt="Streak" />
+</p>
 
-<div align="center">
-  
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/jorge-antezana)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/j0rgedev)
+## 📫 Connect
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=j0rgedev&style=flat-square&color=blue" alt="Profile Views" />
-  
-  ⭐ <em>May your code compile on the first try!</em> ⭐
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-antezana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/j0rgedev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
